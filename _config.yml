@@ -1,5 +1,5 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Draft Right"
+email: info@draftright.in
 timezone: UTC
 baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
@@ -25,13 +25,12 @@ ganalytics: UA-113961478-1
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Dilip Rout
+    display_name: Dilip
     avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: connect@diliprout.in
+    web: https://www.diliprout.in/
+    description: "Technical Writer based in Hyderabad, India."
   john:
     name: John
     display_name: John
@@ -43,9 +42,8 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/draftright/
+  facebook: https://www.facebook.com/draftright
 
 # Plugins
 plugins: 
